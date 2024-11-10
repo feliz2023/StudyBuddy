@@ -1,5 +1,5 @@
 
-# hackProject
+# StudentHive
 This is website project where people with different interests can connect with each other and 
 being from tech background i guess we people know that coding becomes much more exciting when done in groups 
 and communities with people sharing different ideas and innovations. 
